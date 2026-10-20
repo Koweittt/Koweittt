@@ -1,6 +1,6 @@
 <h1 align="center">Salut, moi c'est Axel 👋</h1>
 <p align="center">
-  Étudiant à <a href="https://42.fr">42</a> · 🇫🇷 France
+  Étudiant à <a href="https://42.fr">42 Paris</a> · 🇫🇷 France
 </p>
 
 ---
