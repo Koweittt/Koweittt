@@ -35,9 +35,3 @@
 | [ft_printf](https://github.com/Koweittt/ft_printf) | Réimplémentation de `printf` | C |
 | [Libft](https://github.com/Koweittt/Libft) | Ma propre bibliothèque C standard | C |
 
-### Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Koweittt&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koweittt&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
